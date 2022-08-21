@@ -1,6 +1,6 @@
 prometheus
 grafana
-newrelic
+newrelicD
 appDynamics
 <<<<<<< HEAD
 Dynatrace
