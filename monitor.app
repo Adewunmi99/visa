@@ -2,4 +2,4 @@ prometheus
 grafana
 newrelic
 appDynamics
-Dynatrace
+dynatrace
